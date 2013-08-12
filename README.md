@@ -1,0 +1,1 @@
+A consolidation of project euler gists. Just a nice place to put them all. 
